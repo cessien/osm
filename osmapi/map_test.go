@@ -8,7 +8,7 @@ import (
 	"testing"
 	"time"
 
-	"github.com/paulmach/osm"
+	"github.com/cessien/osm"
 )
 
 func TestMap_urls(t *testing.T) {

@@ -10,8 +10,8 @@ import (
 	"sync"
 	"time"
 
-	"github.com/paulmach/osm"
-	"github.com/paulmach/osm/osmpbf/internal/osmpbf"
+	"github.com/cessien/osm"
+	"github.com/cessien/osm/osmpbf/internal/osmpbf"
 	"google.golang.org/protobuf/proto"
 )
 
